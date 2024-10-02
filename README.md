@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gematsam-X
 - 👀 I’m interested in Linux and electronic
-- 🌱 I’m currently learning Python and C
+- 🌱 I’m currently learning Python and Angular
 - 💞️ I’m looking to collaborate on great projects
 
 <!---
