@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Gematsam-X
-- 👀 I’m interested in Linux and electronic
-- 🌱 I’m currently learning Python and Angular
-- 💞️ I’m looking to collaborate on great projects
+- 👋 Hi, I’m @Gematsam-X an autodidactic front-end programmer.
+- 👀 I’m into Linux and electronic (e.g. Arduino)
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on big projects
 
 <!---
 Gematsam-X/Gematsam-X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
