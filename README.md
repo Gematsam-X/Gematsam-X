@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gematsam-X an autodidactic front-end programmer.
+- 👋 Hi, I’m @Gematsam-X, an autodidactic fullstack programmer.
 - 👀 I’m into Linux and electronic (e.g. Arduino)
 - 🌱 I’m looking to collaborate on big projects
 <!---
